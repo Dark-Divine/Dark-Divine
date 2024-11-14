@@ -9,7 +9,7 @@
 
 ## My Other Skills
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,docker,git,github,materialui,phpstorm,ps,postman,prisma,threejs,visualstudio,vscode,cloudflare&perline=12)](https://riotarena.com)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,docker,git,github,postman,prisma,threejs,visualstudio,vscode,phpstorm,cloudflare&perline=12)](https://riotarena.com)
 
 
 ## Github Stats

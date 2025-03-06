@@ -5,7 +5,7 @@
 
 ## My Main Skills
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,nest,postgres,wordpress,lua&perline=12)](https://riotarena.com)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,reactjs,nextjs,nest,postgres,wordpress,lua&perline=12)](https://riotarena.com)
 
 ## My Other Skills
 

@@ -5,11 +5,11 @@
 
 ## My Main Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nest,postgres,wordpress,lua,cs&perline=12)](https://riotarena.com)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,postgres,wordpress,php,lua,cs&perline=12)](https://hamtana.com)
 
 ## My Other Skills
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,docker,git,github,postman,prisma,threejs,visualstudio,vscode,phpstorm,cloudflare&perline=12)](https://riotarena.com)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,docker,git,github,postman,prisma,threejs,visualstudio,vscode,figma,dotnet,ps,prisma,cloudflare&perline=12)](https://hamtana.com)
 
 
 ## Github Stats
